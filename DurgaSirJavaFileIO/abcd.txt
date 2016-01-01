@@ -1,0 +1,4 @@
+l
+
+Hello worldthisis
+This is from the Buffered Writer
